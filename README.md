@@ -1,2 +1,2 @@
-# Web-Services-Server-Technologies-IT2234
-Daily Practical Codes for IT2234
+# 2025/03/17 Day 02 Practicals
+## Output Screenshots
