@@ -1,2 +1,5 @@
-# Web-Services-Server-Technologies-IT2234
-Daily Practical Codes for IT2234
+# 2025/03/19 Day 03 Practicals
+## Output Screenshots
+Arrow.js
+
+
