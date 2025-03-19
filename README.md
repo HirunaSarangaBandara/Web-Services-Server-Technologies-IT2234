@@ -3,3 +3,19 @@
 Arrow.js
 
 
+
+Boolean.js
+
+
+
+CallBack.js
+
+
+
+Functions.js
+
+
+
+
+
+Recursive.js
