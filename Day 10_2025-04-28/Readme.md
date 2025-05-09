@@ -66,9 +66,6 @@
 
 !['Outputs.png'](./Outputs/12.png)
 
-3️⃣ Update Data in Array
-
-!['Outputs.png'](./Outputs/13.png)
 
 
 
